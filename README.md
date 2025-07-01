@@ -31,9 +31,13 @@ The primary goal was to leverage advanced NLP techniques to create a more robust
 
 ## How to Run This Project
 
+
 This project can be run either in Google Colab (recommended) or on a local machine.
 
+
 **Option 1: Running in Google Colab (Recommended)**
+
+
 This is the easiest way to run the project as it requires no local installation.
 
 1. Open in Colab: Navigate to the FakeNewsProject.ipynb file in the GitHub repository.
@@ -46,7 +50,7 @@ This is the easiest way to run the project as it requires no local installation.
 
 **Option 2: Running Locally (with Conda)**
 
-Prerequisites
+Prerequisite:
 You must have Miniconda or Anaconda installed.
 
 **1. Clone the Repository**
