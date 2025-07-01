@@ -5,6 +5,7 @@ This project documents the development of a high-performance deep learning model
 The primary goal was to leverage advanced NLP techniques to create a more robust and accurate classifier. The full development process, including data preprocessing, model training, and experimentation, is detailed in the accompanying Jupyter Notebook (`FakeNewsProject.ipynb`)
 
 ## Key Features & Improvements
+
 - Advanced Model Architecture: This project implements a powerful stacked Bidirectional LSTM architecture, which proved more effective at capturing complex contextual relationships in text compared to the Conv1D + LSTM model from the baseline article.
 
 - Superior Performance: Our final model achieved a test accuracy of over 91%, a substantial improvement over the ~76% validation accuracy from the original methodology.
@@ -29,6 +30,7 @@ The primary goal was to leverage advanced NLP techniques to create a more robust
 - Conda for local environment management
 
 ## How to Run This Project
+
 This project can be run either in Google Colab (recommended) or on a local machine.
 
 **Option 1: Running in Google Colab (Recommended)**
